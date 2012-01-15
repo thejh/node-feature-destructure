@@ -1,0 +1,15 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "feature-destructure",
+  "description": "Code Transformation Feature: Destructuring",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thejh/node-feature-destructure",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-feature-destructure.git"
+  },
+  "dependencies": {
+    "astjourney": "*"
+  },
+  "devDependencies": {}
+}
